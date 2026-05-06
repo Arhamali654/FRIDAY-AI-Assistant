@@ -1,0 +1,49 @@
+# FRIDAY AI Assistant - Requirements
+# Install with: pip install -r requirements.txt
+
+# AI Brain
+groq==1.1.2
+
+# Voice Output
+edge-tts==7.2.8
+pygame==2.6.1
+
+# Voice Input
+SpeechRecognition==3.16.0
+PyAudio==0.2.14
+
+# UI
+customtkinter==5.2.2
+darkdetect==0.8.0
+pillow==12.2.0
+
+# Environment Variables
+python-dotenv==1.2.2
+
+# Weather
+pyowm==3.5.0
+requests==2.33.1
+
+# Spotify Music
+spotipy==2.26.0
+
+# Screen Reading
+pytesseract==0.3.13
+opencv-python==4.13.0.92
+
+# PC Automation
+PyAutoGUI==0.9.54
+pywin32==311
+comtypes==1.4.16
+
+# System Info
+psutil==7.2.2
+
+# Database (Memory)
+SQLAlchemy==2.0.49
+
+# Utilities
+colorama==0.4.6
+beautifulsoup4==4.14.3
+pyttsx3==2.99
+winshell==0.6
