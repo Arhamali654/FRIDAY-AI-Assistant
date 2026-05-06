@@ -1,0 +1,18 @@
+# Environment - NEVER upload
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Spotify cache
+.spotify_cache
+
+# Database (personal memory)
+data/memory.db
+
+# OS
+.DS_Store
+Thumbs.db
